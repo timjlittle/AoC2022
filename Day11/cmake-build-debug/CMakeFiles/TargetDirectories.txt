@@ -1,0 +1,3 @@
+D:/Projects/AdventOfCode2022/Day11/cmake-build-debug/CMakeFiles/Day11.dir
+D:/Projects/AdventOfCode2022/Day11/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/AdventOfCode2022/Day11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
